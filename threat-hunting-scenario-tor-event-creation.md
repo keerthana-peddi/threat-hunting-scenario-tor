@@ -75,8 +75,8 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: Alexandro Martinez
-- **Author Contact**: https://www.linkedin.com/in/lxmrtnz/
+- **Author Name**: Keerthana Peddi
+- **Author Contact**: https://www.linkedin.com/in/keerthana-peddi/
 - **Date**: 5/27/2025
 
 ## Validated By:
@@ -94,4 +94,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                 | `5/27/2025`      | `Alex Martinez`   
+| 1.0         | Initial draft                 | `5/27/2025`      | `Keerthana Peddi`   
